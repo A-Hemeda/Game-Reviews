@@ -1,2 +1,2 @@
 # Game Reviews
-## https://a-hemeda.github.io/A-Game/
+## [Demo](https://a-hemeda.github.io/Game-Reviews/)
